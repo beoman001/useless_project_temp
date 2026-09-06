@@ -114,7 +114,7 @@ For Hardware:
 ![Final]
 *The final product is a browser-based computer vision web application.*
 
-### Project Demo
+### Project Demo live demo https://mottathala-finder-2026.web.app/
 
 # Video
 

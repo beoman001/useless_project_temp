@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="KASHANDI FINDER Banner" src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1280&q=80" />
+<img width="1280" height="640" alt="KASHANDI FINDER Banner" >
 
 # KASHANDI FINDER™ 🎯
 ### THE WORLD'S MOST UNNECESSARILY ADVANCED CRANIAL VEGETATION ANALYSIS SYSTEM™
@@ -14,9 +14,7 @@
 ### Team Name: Cranial Research Taskforce
 
 ### Team Members
-- Team Lead: Alex Doe - College of Satirical Computing
-- Member 2: Mottathala Inspector - FARS-FASel™ Research Division
-- Member 3: AI Overlord - Cranial Vegetation Bureau
+- Team Lead: Beon Binesh
 
 ### Project Description
 A hilarious, production-quality React web application built with Vite, TypeScript, Tailwind CSS, Framer Motion, and Web Audio API. It performs an absurdly over-engineered cranial vegetation & forehead ratio analysis using front and rear evidence photographs. Features FARS-FASel™ Engine v3.0, Mottathala Alert event screen, Bald Mode simulator, Official Mottathala Certificate PNG generator, and Group Mottathala Analyzer!
@@ -98,10 +96,7 @@ graph TD
 
 ---
 
-## Team Contributions
-- **Alex Doe:** Application state machine, React 19 architecture, Tailwind CSS design system.
-- **Mottathala Inspector:** FARS-FASel™ analysis engine, classification matrix, and satirical roasts.
-- **AI Overlord:** Web Audio API sound synthesizer, certificate PNG export, and group analyzer.
+
 
 ---
 

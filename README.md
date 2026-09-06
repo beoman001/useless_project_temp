@@ -67,16 +67,6 @@ npm run build
 
 ## Project Documentation
 
-### Screenshots
-
-![Kashandi Finder Home](https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80)
-*Home View featuring FARS-FASel™ Engine v3.0 branding and actions*
-
-![Cranial Evidence Camera Scanner](https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80)
-*Live Camera HUD Scanner for front & rear cranial evidence photos*
-
-![Official Mottathala Diagnostic Report](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80)
-*Diagnostic Report Screen with Kashandi Index score, classification, and Bald Mode*
 
 ### Workflow Diagram
 
